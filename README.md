@@ -34,7 +34,7 @@ Si tenés una idea y necesitás a alguien con la "chispa" necesaria para armar t
 - https://www.javiergosaine.com/cet_demo
 
 ## Tecnologías
-https://img.shields.io/badge/Ruby%20on%20Rails-Senior-brightgreen?style=for-the-badge
+![Tech Badge](https://img.shields.io/badge/Ruby%20on%20Rails-Senior-brightgreen?style=for-the-badge)
 
 ## Agradecimientos
 *Gracias por visitar mi perfil. Sientete libre de contactarme.*
