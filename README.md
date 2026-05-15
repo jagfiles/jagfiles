@@ -33,9 +33,6 @@ Si tenés una idea y necesitás a alguien con la "chispa" necesaria para armar t
 ## Proyectos Destacados
 - https://www.javiergosaine.com/cet_demo
 
-## Estadísticas de GitHub
-![Commit Activity](URL_DE_TU_BATCH)
-
 ## Tecnologías
 ![Tech Badge](https://img.shields.io/badge/Technology-Name-Color)
 
