@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-# Tu Nombre
+# Javier Alejandro Gosaine
 ![Tu Foto](URL_DE_TU_FOTO)
 
 ## Sobre Mí
-Soy Javier Alejandro Gosaine, un desarrollador full stack .
+Me dedico a crear soluciones digitales, pero si tuviera que definirme de una forma simple: hago que las cosas funcionen.
+
+Muchos se quedan en los lenguajes de programación, pero para mí la tecnología es solo la herramienta. Mi verdadero valor está en la capacidad de agarrar una idea desde cero y transformarla en un proyecto real y listo para usar.
 
 ## Vías de Contacto
 - https://www.javiergosaine.com/
