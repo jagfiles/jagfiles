@@ -4,11 +4,10 @@
 ![Tu Foto](URL_DE_TU_FOTO)
 
 ## Sobre Mí
-Soy [Tu Nombre], un desarrollador con experiencia en [tus habilidades].
+Soy Javier Alejandro Gosaine, un desarrollador full stack .
 
 ## Vías de Contacto
-- [Tu Sitio Web](URL_DE_TU_SITIO)
-- [Tu LinkedIn](URL_DE_TU_LINKEDIN)
+- https://www.javiergosaine.com/
 
 ## Proyectos Destacados
 - [Proyecto 1](URL_DEL_PROYECTO_1)
