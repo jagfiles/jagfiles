@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # Javier Alejandro Gosaine
-![Tu Foto](URL_DE_TU_FOTO)
 
 ## Sobre Mí
 Me dedico a crear soluciones digitales, pero si tuviera que definirme de una forma simple: hago que las cosas funcionen.
@@ -12,8 +11,7 @@ Muchos se quedan en los lenguajes de programación, pero para mí la tecnología
 - https://www.javiergosaine.com/
 
 ## Proyectos Destacados
-- [Proyecto 1](URL_DEL_PROYECTO_1)
-- [Proyecto 2](URL_DEL_PROYECTO_2)
+- https://www.javiergosaine.com/cet_demo
 
 ## Estadísticas de GitHub
 ![Commit Activity](URL_DE_TU_BATCH)
