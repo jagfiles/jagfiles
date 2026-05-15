@@ -9,11 +9,11 @@ Muchos se quedan en los lenguajes de programación, pero para mí la tecnología
 
 ¿Qué puedo aportar a tu proyecto?
 
-    Visión Integral: No solo escribo código; entiendo el "para qué" de lo que estamos construyendo. Puedo encargarme de todas las etapas, desde la primera charla sobre la idea hasta que el producto está funcionando online.
+Visión Integral: No solo escribo código; entiendo el "para qué" de lo que estamos construyendo. Puedo encargarme de todas las etapas, desde la primera charla sobre la idea hasta que el producto está funcionando online.
 
-    Autonomía: Si hay algo que no sé, lo aprendo. Si algo se rompe, lo arreglo. Mi prioridad es que el proyecto avance y se concrete.
+Autonomía: Si hay algo que no sé, lo aprendo. Si algo se rompe, lo arreglo. Mi prioridad es que el proyecto avance y se concrete.
 
-    Comunicación Simple: No hace falta que sepas de servidores o bases de datos para trabajar conmigo. Me gusta explicar los procesos de forma clara para que siempre sepas dónde estamos parados.
+Comunicación Simple: No hace falta que sepas de servidores o bases de datos para trabajar conmigo. Me gusta explicar los procesos de forma clara para que siempre sepas dónde estamos parados.
 
 En resumen...
 
